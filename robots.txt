@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://kiagheipho.ayre.studio/sitemap.xml
